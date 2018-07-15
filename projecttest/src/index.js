@@ -1,5 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import _ from 'lodash'
+
+import NavBar from './components/navbar'
 import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
